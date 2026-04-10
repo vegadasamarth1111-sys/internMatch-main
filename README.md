@@ -251,5 +251,6 @@ npm run dev
 | GET | `/applications/{id}` | JWT | Get a single application |
 | PATCH | `/applications/{id}/status` | JWT | Update application status (accept / reject / withdraw) |
 | POST | `/applications/{id}/resume` | JWT (applicant) | Upload a resume for an application |
-| POST | `/contact` | None | Submit a contact message |#   i n t e r n M a t c h - m a i n  
+| POST | `/contact` | None | Submit a contact message |#   i n t e r n M a t c h - m a i n 
+ 
  
