@@ -1,0 +1,30 @@
+# FastAPI & API
+fastapi
+slowapi
+uvicorn
+python-multipart
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Auth & Security
+PyJWT
+cryptography
+passlib
+python-dotenv
+pydantic
+pydantic-settings
+argon2-cffi
+
+# External Storage
+supabase==2.3.0
+gotrue==2.4.1
+httpx==0.24.1
+
+# CORS & API
+fastapi-cors
+requests
+
+# Data validation
+email-validator
